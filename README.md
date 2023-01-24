@@ -5,13 +5,13 @@
 Projeto utilizando HTML5 e CSS3.
 
 ### Home
-![imagem](./Imagens-Anna-Bella/annabellahome.png)
+![imagem](./Imagens/annabellahome.png)
 
 ### Biografia
-![imagem](./Imagens-Anna-Bella/annabellabiografia.png)
+![imagem](./Imagens/annabellabiografia.png)
 
 ### Campanhas Publicitarias 1
-![imagem](./Imagens-Anna-Bella/annabellacampanha1.png)
+![imagem](./Imagens/annabellacampanha1.png)
 
 ### Campanhas Publicitarias 2
-![imagem](./Imagens-Anna-Bella/annabellacampanhas2.png)
+![imagem](./Imagens/annabellacampanhas2.png)
