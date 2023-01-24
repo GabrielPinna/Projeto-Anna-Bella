@@ -1,4 +1,8 @@
-# Projeto2-Anna-Bella
- Projeto 2 - Modelo Anna Bella - CSS3
+# Projeto 2 "Anna Bella"
+
+## Site portifolio para a modelo Anna Bella.
 
 Projeto utilizando HTML5 e CSS3.
+
+## Home
+![imagem](./)
